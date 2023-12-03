@@ -30,7 +30,7 @@ Contributions are welcome! If you find any issues or have ideas to improve the a
 
 ## Credits
 
-- Developer: [Oscar Navarro]
+- Developer: [Oscar Navarro, Johan Bastos]
 - Library Used: [Org.JSON](https://github.com/stleary/JSON-java)
 
 ---
